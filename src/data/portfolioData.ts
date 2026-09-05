@@ -290,7 +290,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     id: "cabinet-advisor",
     role: "Advisor - Student Cabinet",
     organization: "Nehru Arts and Science College",
-    location: "Palakkad, Kerala",
+    location: "Coimbatore, Tamil Nadu",
     period: "2025 – 2026 Academic Year",
     type: "Leadership",
     description: [
@@ -304,7 +304,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     id: "research-minister",
     role: "Research Minister - Student Cabinet",
     organization: "Nehru Arts and Science College",
-    location: "Palakkad, Kerala",
+    location: "Coimbatore, Tamil Nadu",
     period: "2024 – 2025 Academic Year",
     type: "Leadership",
     description: [
@@ -379,7 +379,7 @@ export const EDUCATION = [
   {
     degree: "Bachelor of Science - Computer Science (Data Science)",
     institution: "Nehru Arts and Science College",
-    location: "Palakkad, Kerala",
+    location: "Coimbatore, Tamil Nadu",
     period: "July 2023 - June 2026",
     score: "CGPA: 8.0 / 10.0",
     details: "Specialized coursework in Machine Learning, SQL, Big Data Processing, Web Development, and Predictive Analytics."
